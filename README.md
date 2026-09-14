@@ -1,9 +1,9 @@
 # CKA
 
 1. RBAC
-     a. Role Create
-     b. Service Account Create
-     c. Role Binding
+   a. Role Create
+   b. Service Account Create
+   c. Role Binding
 
 2. Upgrade
 
